@@ -1,7 +1,7 @@
 #import os
 
 #WTF_CSRF_ENABLED = True
-SECRET_KEY = 'os.urandom(0)
+SECRET_KEY = 'os.urandom(0)'
 
 
 #class BaseConfig(object):
